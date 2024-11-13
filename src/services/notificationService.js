@@ -25,5 +25,5 @@ const sendNotification = (task) => {
     });
 };
 
-module ```javascript
-.exports = { sendNotification };
+// Export the sendNotification function for use in other modules
+module.exports = { sendNotification };
