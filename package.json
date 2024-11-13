@@ -1,0 +1,17 @@
+{
+  "name": "task-scheduler",
+  "version": "1.0.0",
+  "description": "Node JS Task Scheduler App ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/index.js"
+  },
+  "keywords": [
+    "Task-Scheduler",
+    "NodeJS",
+    "DevOps",
+    "Docker"
+  ],
+  "author": "Sidharath Khanna",
+  "license": "ISC"
+}
